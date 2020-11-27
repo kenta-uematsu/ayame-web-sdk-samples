@@ -1,5 +1,5 @@
-const signalingUrl = 'wss://ayame-labo.shiguredo.jp/signaling';
-let roomId = 'ayame-web-sdk-sample';
+const signalingUrl = 'wss://teleworkrobot.com/signaling';
+let roomId = '5553245f1108aa7f3d2895227cfa90dc';
 let clientId = null;
 let videoCodec = null;
 let audioCodec = null;
